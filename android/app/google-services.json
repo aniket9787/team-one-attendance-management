@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "182550207384",
+    "project_id": "stallion-one",
+    "storage_bucket": "stallion-one.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182550207384:android:4c321d30e8464f2a7369ed",
+        "android_client_info": {
+          "package_name": "com.example.stallion_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182550207384-4cds5bohrshccpge4stljn81313cp38s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stallion_one",
+            "certificate_hash": "87359b3f8a89742a635976136128022c0f9d6703"
+          }
+        },
+        {
+          "client_id": "182550207384-al4h7r7ta3js39alrqp2h8lcsm2pitd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4a8eDO6yiTMafhjn830_fa6zS3ayCAEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182550207384-al4h7r7ta3js39alrqp2h8lcsm2pitd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182550207384-o5rongtgjk79il9o9ndea2bkvdot8r5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stallionOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
