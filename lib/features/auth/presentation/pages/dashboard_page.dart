@@ -354,7 +354,7 @@ return Scaffold(
     ),
 
     title: const Text(
-      "Stallion One",
+      "Team One",
       style: TextStyle(
         color: Colors.white,
         fontWeight:

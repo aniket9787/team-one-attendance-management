@@ -128,7 +128,7 @@ class _SplashPageState extends State<SplashPage>
                   const SizedBox(height: 35),
 
                   const Text(
-                    "STALLION ONE",
+                    "TEAM ONE",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 34,

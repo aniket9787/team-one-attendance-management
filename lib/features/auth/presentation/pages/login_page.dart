@@ -185,7 +185,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
                     const SizedBox(height: 20),
 
                     const Text(
-                      "Stallion One",
+                      "Team One",
                       style: TextStyle(
                         fontSize: 30,
                         fontWeight: FontWeight.bold,
@@ -363,7 +363,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
 
                      */
                     Text(
-                      "© Stallion One",
+                      "© Team One",
                       style: TextStyle(
                         color: Colors.grey.shade600,
                       ),
